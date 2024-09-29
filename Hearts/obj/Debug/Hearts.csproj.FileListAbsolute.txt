@@ -1,0 +1,28 @@
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.exe.config
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.exe
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.pdb
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.HeartsForm.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.HowToPlay.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.PermFile.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.Properties.Resources.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.Rules.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.TempFile.resources
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.exe
+C:\Users\chris\Documents\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.pdb
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.exe.config
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.exe
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\bin\Debug\Hearts.pdb
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.HeartsForm.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.HowToPlay.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.PermFile.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.Properties.Resources.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.Rules.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.TempFile.resources
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.exe
+C:\Users\chris\Documents\Personal Projects\Programming Stuff\Hearts-Game-NoCpu\Hearts\Hearts-Game-Fix\Hearts\obj\Debug\Hearts.pdb

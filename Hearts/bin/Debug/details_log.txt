@@ -1,0 +1,906 @@
+
+Log Entry : 2024-09-28 11:58:17 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:17 PM : Deck Shuffled
+
+Log Entry : 2024-09-28 11:58:22 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:22 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:23 PM : Player 1 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:24 PM : Player 2 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:24 PM : Queen of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:24 PM : Player 1 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:25 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:25 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:25 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:25 PM : Player 2 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:25 PM : Player 1 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:25 PM : 8 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:26 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:26 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:26 PM : Player 1 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:26 PM : 10 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:26 PM : 10 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:26 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:27 PM : Player 1 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:28 PM : Player 2 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:28 PM : 10 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:29 PM : 6 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 2 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:29 PM : 4 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:29 PM : Queen of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : Queen of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:29 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:29 PM : 10 of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : Ace of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 2 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:29 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:29 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:29 PM : Player 1 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 2 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:30 PM : 8 of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:30 PM : 8 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 2 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:30 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:30 PM : No winner this round, deal next hand
+
+Log Entry : 2024-09-28 11:58:30 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:30 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:30 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:30 PM : 4 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:32 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:32 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:32 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 1 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:32 PM : 4 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:32 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:32 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:32 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:33 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : 4 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : 8 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 2 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:33 PM : Queen of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 1 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : 4 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:34 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:34 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:34 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:34 PM : Ace of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:34 PM : Ace of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : Queen of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:34 PM : Hand complete, checking for winner
+
+Log Entry : 2024-09-28 11:58:34 PM : Player 1 Won
+
+Log Entry : 2024-09-28 11:58:35 PM : GAME RESET
+
+Log Entry : 2024-09-28 11:58:35 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:35 PM : Deck Shuffled
+
+Log Entry : 2024-09-28 11:58:35 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 1 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 2 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:35 PM : Ace of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:35 PM : Ace of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:35 PM : Queen of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 2 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:35 PM : 8 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:35 PM : Player 1 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:36 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 2 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:36 PM : Ace of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 2 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 1 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:36 PM : 4 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:36 PM : 4 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:36 PM : 2 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 2 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:36 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:36 PM : 6 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:37 PM : 10 of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:37 PM : 10 of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:37 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : Queen of Spades is queen of spades, Player 1 gets 13 points
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:37 PM : 10 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : 10 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:37 PM : 8 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:37 PM : 4 of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 1 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:37 PM : Player 2 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:37 PM : Queen of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:38 PM : 6 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : 6 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:38 PM : Queen of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : No winner this round, deal next hand
+
+Log Entry : 2024-09-28 11:58:38 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:38 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : 4 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:38 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:38 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:38 PM : Player 1 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:38 PM : 4 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:39 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:39 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:39 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:39 PM : 4 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:39 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:39 PM : 8 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 2 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:40 PM : Queen of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : 4 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:40 PM : Ace of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:40 PM : Ace of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : Queen of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:40 PM : No winner this round, deal next hand
+
+Log Entry : 2024-09-28 11:58:40 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:40 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:40 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : 4 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:41 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:41 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:41 PM : Player 1 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:41 PM : 4 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:42 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:42 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:42 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : 4 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : 8 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:42 PM : Queen of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:42 PM : Player 1 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:42 PM : 4 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:42 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:42 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:43 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:43 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:43 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:43 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:43 PM : Ace of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:43 PM : Ace of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : Queen of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:43 PM : Hand complete, checking for winner
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 1 Won
+
+Log Entry : 2024-09-28 11:58:43 PM : GAME RESET
+
+Log Entry : 2024-09-28 11:58:43 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:43 PM : Deck Shuffled
+
+Log Entry : 2024-09-28 11:58:43 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:43 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : 8 of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:44 PM : Queen of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:44 PM : Ace of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:44 PM : Ace of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : Ace of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:44 PM : Queen of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:44 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:44 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:44 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:44 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:45 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:45 PM : 8 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:45 PM : Queen of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:45 PM : 6 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:45 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:45 PM : 2 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:45 PM : Queen of Spades is queen of spades, Player 1 gets 13 points
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 2 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:45 PM : 4 of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:45 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:46 PM : 6 of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : No winner this round, deal next hand
+
+Log Entry : 2024-09-28 11:58:46 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:46 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : 4 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:46 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:46 PM : 4 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:46 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:47 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:47 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:47 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:47 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:47 PM : 4 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:48 PM : 8 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:48 PM : Queen of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : 4 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:48 PM : Ace of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:48 PM : Ace of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : Queen of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:48 PM : No winner this round, deal next hand
+
+Log Entry : 2024-09-28 11:58:48 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:49 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 1 played 2 of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 2 played 4 of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : 4 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 2 played 8 of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 1 played 6 of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : 8 of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 1 played 10 of Spades
+
+Log Entry : 2024-09-28 11:58:49 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:49 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 2 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:58:49 PM : Player 1 played 4 of Clubs
+
+Log Entry : 2024-09-28 11:58:49 PM : 4 of Clubs is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 1 played Ace of Spades
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 2 played 6 of Clubs
+
+Log Entry : 2024-09-28 11:58:50 PM : Ace of Spades is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 1 played 8 of Clubs
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 2 played 10 of Clubs
+
+Log Entry : 2024-09-28 11:58:50 PM : 10 of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:58:50 PM : Player 1 played Queen of Clubs
+
+Log Entry : 2024-09-28 11:58:50 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 2 played 4 of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 1 played 2 of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : 4 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 2 played 8 of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 1 played 6 of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : 8 of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 2 played Queen of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 1 played 10 of Diamonds
+
+Log Entry : 2024-09-28 11:58:51 PM : Queen of Diamonds is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 2 played 2 of Hearts
+
+Log Entry : 2024-09-28 11:58:51 PM : Player 1 played 4 of Hearts
+
+Log Entry : 2024-09-28 11:58:51 PM : 4 of Hearts is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:51 PM : 4 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:51 PM : 2 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:52 PM : Player 1 played Ace of Diamonds
+
+Log Entry : 2024-09-28 11:58:52 PM : Player 2 played 6 of Hearts
+
+Log Entry : 2024-09-28 11:58:52 PM : Ace of Diamonds is trump, Player 1 goes first next turn
+
+Log Entry : 2024-09-28 11:58:52 PM : 6 of Hearts is hearts, Player 1 gets a point
+
+Log Entry : 2024-09-28 11:58:52 PM : Player 1 played 8 of Hearts
+
+Log Entry : 2024-09-28 11:58:52 PM : Player 2 played 10 of Hearts
+
+Log Entry : 2024-09-28 11:58:52 PM : 10 of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:52 PM : 10 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:52 PM : 8 of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:53 PM : Player 2 played Ace of Hearts
+
+Log Entry : 2024-09-28 11:58:53 PM : Player 1 played Queen of Hearts
+
+Log Entry : 2024-09-28 11:58:53 PM : Ace of Hearts is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:58:53 PM : Ace of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:53 PM : Queen of Hearts is hearts, Player 2 gets a point
+
+Log Entry : 2024-09-28 11:58:53 PM : Hand complete, checking for winner
+
+Log Entry : 2024-09-28 11:58:53 PM : Player 1 Won
+
+Log Entry : 2024-09-28 11:58:55 PM : GAME RESET
+
+Log Entry : 2024-09-28 11:58:55 PM : Deck Created
+
+Log Entry : 2024-09-28 11:58:55 PM : Deck Shuffled
+
+Log Entry : 2024-09-28 11:58:59 PM : Dealing Cards.
+
+Log Entry : 2024-09-28 11:58:59 PM : Player 1 has two of spades, they play first
+
+Log Entry : 2024-09-28 11:59:01 PM : Player 1 played 8 of Spades
+
+Log Entry : 2024-09-28 11:59:01 PM : Player 2 played Queen of Spades
+
+Log Entry : 2024-09-28 11:59:01 PM : Queen of Spades is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:59:01 PM : Queen of Spades is queen of spades, Player 2 gets 13 points
+
+Log Entry : 2024-09-28 11:59:03 PM : Player 2 played Ace of Clubs
+
+Log Entry : 2024-09-28 11:59:05 PM : Player 1 played 2 of Clubs
+
+Log Entry : 2024-09-28 11:59:05 PM : Ace of Clubs is trump, Player 2 goes first next turn
+
+Log Entry : 2024-09-28 11:59:05 PM : Player 2 played 4 of Hearts

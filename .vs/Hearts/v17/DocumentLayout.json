@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|c:\\users\\chris\\documents\\personal projects\\programming stuff\\hearts-game-nocpu\\hearts\\hearts-game-fix\\hearts\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|solutionrelative:hearts\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\hearts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|solutionrelative:hearts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\hearts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|solutionrelative:hearts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\hearts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|solutionrelative:hearts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\hearts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FCD710-0312-42B5-B026-55355B4B8E4E}|Hearts\\Hearts.csproj|solutionrelative:hearts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Hand.cs",
+              "RelativeDocumentMoniker": "Hearts\\Hand.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Hand.cs",
+              "RelativeToolTip": "Hearts\\Hand.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:21:33.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Game.cs",
+              "RelativeDocumentMoniker": "Hearts\\Game.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Game.cs [Design]",
+              "RelativeToolTip": "Hearts\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:20:31.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Game.cs",
+              "RelativeDocumentMoniker": "Hearts\\Game.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Game.cs",
+              "RelativeToolTip": "Hearts\\Game.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAowMwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:00:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Computer.cs",
+              "RelativeDocumentMoniker": "Hearts\\Computer.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Computer.cs",
+              "RelativeToolTip": "Hearts\\Computer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:20:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Player.cs",
+              "RelativeDocumentMoniker": "Hearts\\Player.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\Personal Projects\\Programming Stuff\\Hearts-Game-NoCpu\\Hearts\\Hearts-Game-Fix\\Hearts\\Player.cs",
+              "RelativeToolTip": "Hearts\\Player.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:10:04.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

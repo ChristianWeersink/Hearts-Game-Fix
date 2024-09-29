@@ -27,6 +27,8 @@ namespace Hearts
         Card winningCard;
         Card cardInPlay;
         bool player1PlayedFirst = false;
+        bool isCpuP1 = false;
+        bool isCpuP2 = false;
 
         private const int POINTS_TO_WIN = 30;
 
@@ -67,6 +69,8 @@ namespace Hearts
             lScore2.Text = "0";
             cbP1Computer.Enabled = true;
             cbP2Computer.Enabled = true;
+            cbP1Computer.Checked = false;
+            cbP2Computer.Checked = false;
             bDeal.Select();
 
         }
@@ -140,6 +144,11 @@ namespace Hearts
             {
                 MessageBox.Show("You must select a card!");
             }
+            if (isCpuP2)
+            {
+                ((Computer)player2).ComputerPlay(lvPlayerHand2, cardInPlay);
+                player2Play.PerformClick();
+            }
         }
 
 
@@ -190,6 +199,13 @@ namespace Hearts
                 MessageBox.Show("You must select a card!");
             }
 
+            // After selecting card check if other player is a cpu
+            if (isCpuP1)
+            {
+                ((Computer)player1).ComputerPlay(lvPlayerHand1, cardInPlay);
+                player1Play.PerformClick();
+            }
+
         }
 
         private void lvPlayerHand1_SelectedIndexChanged(object sender, EventArgs e)
@@ -217,8 +233,9 @@ namespace Hearts
             cbP2Computer.Enabled = false;
 
 
-
-            aDeck.dealCards(player1.playerHand, player2.playerHand);
+         
+            aDeck.dealCards(player1.getHand(), player2.getHand());
+          
             bDeal.Enabled = false;
             if (Turn.firstTurn(player1, player2) == 1)
             {
@@ -455,12 +472,31 @@ namespace Hearts
             // If cbP1Computer is checked, disable cbP1Human
             if (cbP1Computer.Checked)
             {
-                cbP2Computer.Enabled = false;
+                cbP2Computer.Checked = false;
+                isCpuP1 = true;
+                isCpuP2 = false;
+                player1 = new Computer(new Hand(), "CPU 1");
+                player2 = new Player(new Hand(), "Player 2");
                 //cbP1Computer.Enabled = false;
-            }
-            else
-            {
-                cbP2Computer.Enabled = true;
+
+                // Debugging output
+                if (player1.getHand() == null)
+                {
+                    MessageBox.Show("Player 1 hand is null after assignment!");
+                }
+                else
+                {
+                    MessageBox.Show("Player 1 hand is assigned properly.");
+                }
+
+                if (player2.getHand() == null)
+                {
+                    MessageBox.Show("Player 2 hand is null after assignment!");
+                }
+                else
+                {
+                    MessageBox.Show("Player 2 hand is assigned properly.");
+                }
             }
         }
 
@@ -471,14 +507,31 @@ namespace Hearts
             // If cbP2Computer is checked, disable cbP2Human
             if (cbP2Computer.Checked)
             {
-                cbP1Computer.Enabled = false;
-                //cbP2Computer.Enabled = false;
+                cbP1Computer.Checked = false;
+                isCpuP2 = true;
+                player2 = new Computer(new Hand(), "CPU 2");
+                isCpuP1 = false;
+                player1 = new Player(new Hand(), "Player 1");
+
+                // Debugging output
+                if (player2.getHand() == null)
+                {
+                    MessageBox.Show("Player 2 hand is null after assignment!");
+                }
+                else
+                {
+                    MessageBox.Show("Player 2 hand is assigned properly.");
+                }
+
+                if (player1.getHand() == null)
+                {
+                    MessageBox.Show("Player 1 hand is null after assignment!");
+                }
+                else
+                {
+                    MessageBox.Show("Player 1 hand is assigned properly.");
+                }
             }
-            else
-            {
-                cbP1Computer.Enabled = true;
-            }
-        
         }
 
         private void tsmbHow_Click(object sender, EventArgs e)
